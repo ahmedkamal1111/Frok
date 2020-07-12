@@ -1,0 +1,74 @@
+.Auth {
+    margin: 20px auto;
+    width: 80%;
+    height: 100%;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    background-color: white;
+    padding: 10px;
+    box-sizing: border-box;
+}
+hr{
+    width: 50%;
+    margin-top: 8%;
+    margin-bottom: 6%;
+}
+.signlogo{
+    width: 70%;
+}
+.btn
+{
+    display: block;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 10px 30px;
+    text-decoration: none;
+    margin: auto;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    margin-top: 5%;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+    background-color: #0398dd;
+    color: #fff;
+    border: 1px solid #0398dd;
+  }
+  .btn:hover,
+  .btn:active {
+  border: 1px solid #095274;
+  background-color: #095274;
+}
+.Logo {
+    margin: auto;
+    height: 100%;
+    width: 80%;
+    box-sizing: border-box;
+}
+@media (min-width: 600px) {
+    .Auth {
+        width: 30%;
+        height: 450px;
+        margin-top: 10%;
+    }
+}
+
+.select{
+    width: 90%;
+    height: 30px;
+    margin-top: 4%;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial;
+
+}
+.opt{
+    text-align: center;
+    height: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+.remember{
+    margin-top: 25px;
+    margin-left: 150px;
+}

@@ -1,0 +1,63 @@
+{
+  "admins":[{    
+    "id":"1",  
+    "email": "contactus@mcst.edu.sa",
+    "name":"Admision Male",
+    "role":"admin",
+    "gender":"male",
+    "stats":{
+      "x": 12,
+      "y": 7,
+      "z": 7,
+      "h": 10
+      
+    }
+
+}, 
+{      
+  "id":"2", 
+  "email": "ahmed@mcst.edu.sa", 
+  "name":"Ahmed",
+  "role":"admin",
+  "gender":"male",
+  "stats":{
+    "x": 12,
+    "y": 5,
+    "z": 7,
+    "h": 10
+    
+  }
+
+},
+{      
+  "id":"3", 
+  "email": "mohamed@mcst.edu.sa", 
+  "name":"Mohamed",
+  "role":"admin",
+  "gender":"male",
+  "stats":{
+    "x": 12,
+    "y": 8,
+    "z": 7,
+    "h": 10
+    
+  }
+
+},
+{      
+"id":"4",  
+"email": "ali@mcst.edu.sa",
+"name":"Ali",
+"role":"admin",
+"gender":"male",
+"stats":{
+  "x": 12,
+  "y": 9,
+  "z": 7,
+  "h": 10
+  
+}
+}
+
+]
+}

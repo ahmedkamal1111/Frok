@@ -1,0 +1,99 @@
+.ArticlesDetails {
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+    font-family: "Lato", "Arial", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    width: 60%;
+    height: 40%;
+    margin: auto;
+    color: #555;
+    text-align: center;
+    background-color: rgb(221, 218, 218);
+    margin-top: 1%;
+}
+
+
+h1,
+h2,
+h3 {
+  font-weight: 300px;
+  text-transform: uppercase;
+}
+
+.after {
+  display: block;
+  background-color: #e67e22;
+  height: 2px;
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 30px;
+  content: " ";
+  border: #e67e22;
+  border-radius: 5px;
+}
+.img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    box-sizing: border-box;
+    height:400px;
+    width: 31%;
+    margin-top: 5.5%;
+    margin-left: 3.5%;
+    margin-bottom: 13%;
+    transform: scale(1.15);
+    display: block;
+    float: left;
+  }
+
+
+  .a
+{
+    width:18%;
+    margin-left:10%;
+    display: block;
+    text-align: center;
+    font-weight: 400;
+    font-size: 21px;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 200px;
+    transition: 0.2s, border 0.2s, color 0.2s;
+    color: #e67e22;
+    border: 1px solid #e67e22;
+
+  }
+  .a:hover,
+  .a:active {
+  border: 1px solid #e67e11;
+  background-color: #f39e43;
+  color: white;
+}
+.Order
+{
+    display: block;
+    text-align: center;
+    font-weight: 400;
+    font-size: 21px;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 200px;
+    margin: auto;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+    background-color: #e67e22;
+    color: #fff;
+    border: 1px solid #e67e22;
+    width:25%;
+
+  }
+  .Order:hover,
+  .Order:active {
+  border: 1px solid #e67e11;
+  background-color: #f39e43;
+}
+
+
+
